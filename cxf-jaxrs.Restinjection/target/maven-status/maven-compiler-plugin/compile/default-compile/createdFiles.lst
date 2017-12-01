@@ -1,0 +1,3 @@
+com\org\ws\cxf\jaxrs\dto\Passenger.class
+com\org\ws\cxf\jaxrs\dto\PassengerList.class
+com\org\ws\cxf\jaxrs\PassengerService.class
